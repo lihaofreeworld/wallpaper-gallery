@@ -1,0 +1,30 @@
+[
+  {
+    "src": "01-current.png",
+    "title": "鲨鱼 · 码头边 · 繁花似锦",
+    "style": "水彩绘本风格",
+    "styleTag": "art",
+    "date": "2026-05-21"
+  },
+  {
+    "src": "02-takeo-cat.png",
+    "title": "猫 · 古堡 · 温暖治愈",
+    "style": "宫崎骏吉卜力风格",
+    "styleTag": "art",
+    "date": "2026-05-21"
+  },
+  {
+    "src": "03-art-style.png",
+    "title": "大象 · 月光 · 云淡风轻",
+    "style": "艺术插画风格",
+    "styleTag": "art",
+    "date": "2026-05-20"
+  },
+  {
+    "src": "04-ghibli.png",
+    "title": "狐狸 · 森林 · 静谧安宁",
+    "style": "吉卜力风格",
+    "styleTag": "art",
+    "date": "2026-05-20"
+  }
+]
