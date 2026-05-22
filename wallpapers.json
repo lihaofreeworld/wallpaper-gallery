@@ -1,5 +1,75 @@
 [
   {
+    "src": "05-dog-gongbi.png",
+    "title": "狗 · 森林深处 · 银白纯净",
+    "style": "工笔重彩中国风",
+    "styleTag": "art",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "06-peacock-macro.png",
+    "title": "孔雀 · 清晨 · 时光静止",
+    "style": "微距摄影",
+    "styleTag": "photo",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "07-pig-watercolor.png",
+    "title": "猪 · 灯塔之下 · 月华如水",
+    "style": "钢笔淡彩风格",
+    "styleTag": "art",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "08-snake-timelapse.png",
+    "title": "蛇 · 贝壳海滩 · 苍凉",
+    "style": "延时摄影风格",
+    "styleTag": "photo",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "09-penguin-cinema.png",
+    "title": "企鹅 · 古墓深处 · 孤独而安",
+    "style": "电影感黑白",
+    "styleTag": "photo",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "10-panda-korean.png",
+    "title": "熊猫 · 古墓深处 · 宁静",
+    "style": "韩系插画风格",
+    "styleTag": "art",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "11-peacock-bridge.png",
+    "title": "孔雀 · 桥上 · 孤独",
+    "style": "韩系插画风格",
+    "styleTag": "art",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "12-jellyfish-rococo.png",
+    "title": "水母 · 湖心小岛 · 万籁俱寂",
+    "style": "洛可可风格",
+    "styleTag": "art",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "13-lizard-pixar.png",
+    "title": "蜥蜴 · 古堡之内 · 落英缤纷",
+    "style": "皮克斯动画风格",
+    "styleTag": "art",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "14-wolf-papercut.png",
+    "title": "狼 · 雪中 · 风平浪静",
+    "style": "剪纸风格",
+    "styleTag": "art",
+    "date": "2026-05-22"
+  },
+  {
     "src": "2026-05-22.png",
     "title": "马 · 草原上 · 温暖",
     "style": "点彩派风格",
