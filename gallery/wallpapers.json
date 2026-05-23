@@ -6,7 +6,9 @@
     "styleTag": "art",
     "date": "2026-05-23",
     "variant": "no_theme",
-    "combo": "豹子:雪中:绯红热烈:立体主义风格"
+    "combo": "豹子:雪中:绯红热烈:立体主义风格",
+    "theme": "精致绘本插画风格(默认)",
+    "water_label": "陆地/空中"
   },
   {
     "src": "2026-05-23.png",
@@ -15,7 +17,9 @@
     "styleTag": "art",
     "date": "2026-05-23",
     "variant": "with_theme",
-    "combo": "豹子:雪中:绯红热烈:立体主义风格"
+    "combo": "豹子:雪中:绯红热烈:立体主义风格",
+    "theme": "精致绘本插画风格(默认)",
+    "water_label": "陆地/空中"
   },
   {
     "src": "2026-05-22.png",
