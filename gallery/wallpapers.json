@@ -1,20 +1,20 @@
 [
   {
     "src": "2026-05-23_notheme.png",
-    "title": "天鹅 · 沙漠绿洲 · 诗意 · 无主题",
-    "style": "刺绣风格",
-    "styleTag": "art",
+    "title": "鲸鱼 · 咖啡馆 · 翠绿清新 · 无主题",
+    "style": "超高清摄影",
+    "styleTag": "photo",
     "date": "2026-05-23",
     "theme": "无主题库约束",
     "variant": "no_theme"
   },
   {
     "src": "2026-05-23.png",
-    "title": "天鹅 · 沙漠绿洲 · 诗意 · 有主题",
-    "style": "刺绣风格",
-    "styleTag": "art",
+    "title": "鲸鱼 · 咖啡馆 · 翠绿清新 · 有主题",
+    "style": "超高清摄影",
+    "styleTag": "photo",
     "date": "2026-05-23",
-    "theme": "东坡居士水墨禅意风格",
+    "theme": "高对比街头纪实风格",
     "variant": "with_theme"
   },
   {
