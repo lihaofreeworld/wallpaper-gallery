@@ -18,31 +18,143 @@
     "variant": "with_theme"
   },
   {
-    "src": "01-current.png",
-    "title": "马 · 草原上 · 温暖",
+    "src": "2026-05-22.png",
+    "title": "马 · 草原上 · 温暖 · 点彩派",
     "style": "点彩派风格",
     "styleTag": "art",
     "date": "2026-05-22"
   },
   {
+    "src": "2026-05-22-d.png",
+    "title": "蜥蜴 · 桥上 · 星河璀璨 · 微距",
+    "style": "微距摄影",
+    "styleTag": "photo",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "2026-05-22-c.png",
+    "title": "龙猫 · 咖啡馆 · 神秘 · 线稿上色",
+    "style": "线稿上色风格",
+    "styleTag": "art",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "2026-05-22-b.png",
+    "title": "考拉 · 古镇街巷 · 忧伤 · 像素",
+    "style": "像素艺术风格",
+    "styleTag": "digital",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "2026-05-22-a.png",
+    "title": "海豹 · 清晨 · 浪漫 · 波普",
+    "style": "波普艺术风格",
+    "styleTag": "art",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "14-wolf-papercut.png",
+    "title": "狼 · 雪中 · 沧桑 · 剪纸",
+    "style": "剪纸风格",
+    "styleTag": "art",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "13-lizard-pixar.png",
+    "title": "蜥蜴 · 地下铁 · 浪漫 · 皮克斯",
+    "style": "皮克斯动画风格",
+    "styleTag": "art",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "12-jellyfish-rococo.png",
+    "title": "水母 · 深海 · 梦幻 · 洛可可",
+    "style": "洛可可风格",
+    "styleTag": "art",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "11-peacock-bridge.png",
+    "title": "孔雀 · 桥上 · 浪漫 · 水墨",
+    "style": "水墨中国风",
+    "styleTag": "art",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "10-panda-korean.png",
+    "title": "熊猫 · 竹林深处 · 温暖 · 韩系",
+    "style": "韩系插画风格",
+    "styleTag": "art",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "09-penguin-cinema.png",
+    "title": "企鹅 · 冰川上 · 孤独 · 电影感",
+    "style": "电影感写实",
+    "styleTag": "photo",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "04-ghibli.png",
+    "title": "狐狸 · 田野间 · 万籁俱寂 · 吉卜力",
+    "style": "宫崎骏吉卜力风格",
+    "styleTag": "art",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "01-current.png",
+    "title": "马 · 草原上 · 温暖 · 点彩派",
+    "style": "点彩派风格",
+    "styleTag": "art",
+    "date": "2026-05-22"
+  },
+  {
+    "src": "2026-05-21-ladybug.png",
+    "title": "瓢虫 · 露珠上 · 诗意 · 微距",
+    "style": "微距摄影",
+    "styleTag": "photo",
+    "date": "2026-05-21"
+  },
+  {
+    "src": "08-snake-timelapse.png",
+    "title": "蛇 · 热气球上 · 超现实 · 延时",
+    "style": "延时摄影风格",
+    "styleTag": "photo",
+    "date": "2026-05-21"
+  },
+  {
+    "src": "07-pig-watercolor.png",
+    "title": "猪 · 瀑布旁 · 欢快 · 水彩",
+    "style": "水彩绘本风格",
+    "styleTag": "art",
+    "date": "2026-05-21"
+  },
+  {
+    "src": "06-peacock-macro.png",
+    "title": "孔雀 · 清晨 · 梦幻 · 微距",
+    "style": "微距摄影",
+    "styleTag": "photo",
+    "date": "2026-05-21"
+  },
+  {
+    "src": "05-dog-gongbi.png",
+    "title": "狗 · 雪中 · 忧伤 · 工笔",
+    "style": "工笔重彩中国风",
+    "styleTag": "art",
+    "date": "2026-05-21"
+  },
+  {
     "src": "02-takeo-cat.png",
-    "title": "猫 · 月光下 · 神秘",
+    "title": "猫 · 月光下 · 神秘 · 工笔重彩",
     "style": "工笔重彩中国风",
     "styleTag": "art",
     "date": "2026-05-21"
   },
   {
     "src": "03-art-style.png",
-    "title": "大象 · 月光下 · 云淡风轻",
+    "title": "大象 · 月光下 · 云淡风轻 · 维多利亚",
     "style": "维多利亚风格",
     "styleTag": "art",
     "date": "2026-05-20"
-  },
-  {
-    "src": "2026-05-23.png",
-    "title": "蜜蜂 · 异次元空间 · 星河璀璨 · 有主题",
-    "style": "维多利亚风格",
-    "styleTag": "art",
-    "date": "2026-05-23"
   }
 ]
