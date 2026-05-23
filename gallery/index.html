@@ -213,7 +213,7 @@ function buildGallery(wallpapers) {
   document.getElementById('stats').textContent = `共 ${wallpapers.length} 幅壁纸 · 每天 9:00 自动更新`;
 }
 
-fetch('wallpapers.json')
+fetch('wallpapers.json?t=' + Date.now())
   .then(r => r.json())
   .then(buildGallery)
   .catch(() => {
