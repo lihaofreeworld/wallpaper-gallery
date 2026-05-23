@@ -1,5 +1,27 @@
 [
   {
+    "src": "2026-05-23_7_notheme.png",
+    "title": "鲸鱼 · 雾中 · 孤独 · 点彩派风格（无主题）",
+    "style": "点彩派风格",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "variant": "no_theme",
+    "combo": "鲸鱼:雾中:孤独:点彩派风格",
+    "theme": "精致绘本插画风格(默认)",
+    "water_label": "水下"
+  },
+  {
+    "src": "2026-05-23_7.png",
+    "title": "鲸鱼 · 雾中 · 孤独 · 点彩派风格（有主题）",
+    "style": "精致绘本插画风格",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "variant": "with_theme",
+    "combo": "鲸鱼:雾中:孤独:点彩派风格",
+    "theme": "精致绘本插画风格(默认)",
+    "water_label": "水下"
+  },
+  {
     "src": "2026-05-23_6_notheme.png",
     "title": "企鹅 · 火车车厢 · 博弈 · 点彩派风格（无主题）",
     "style": "点彩派风格",
