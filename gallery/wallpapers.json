@@ -1,5 +1,27 @@
 [
   {
+    "src": "2026-05-23_20_notheme.png",
+    "title": "青蛙 · 田野间 · 梦幻 · 钢笔淡彩风格（无主题）",
+    "style": "钢笔淡彩风格",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "variant": "no_theme",
+    "combo": "青蛙:田野间:梦幻:钢笔淡彩风格",
+    "theme": "精致绘本插画风格",
+    "water_label": "水下"
+  },
+  {
+    "src": "2026-05-23_20.png",
+    "title": "青蛙 · 田野间 · 梦幻 · 钢笔淡彩风格（有主题）",
+    "style": "精致绘本插画风格",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "variant": "with_theme",
+    "combo": "青蛙:田野间:梦幻:钢笔淡彩风格",
+    "theme": "精致绘本插画风格",
+    "water_label": "水下"
+  },
+  {
     "src": "2026-05-23_19_notheme.png",
     "title": "章鱼 · 瀑布旁 · 绯红热烈 · 钢笔淡彩风格（无主题）",
     "style": "钢笔淡彩风格",
