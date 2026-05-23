@@ -1,42 +1,21 @@
 [
   {
-    "date": "2026-05-23",
-    "combo": "蜜蜂:异次元空间:星河璀璨:维多利亚风格",
-    "theme": "复古历史档案风格",
-    "variant": "no_theme",
-    "water_label": "陆地/空中"
-  },
-  {
-    "date": "2026-05-23",
-    "combo": "蜜蜂:异次元空间:星河璀璨:维多利亚风格",
-    "theme": "复古历史档案风格",
-    "variant": "with_theme",
-    "water_label": "陆地/空中"
-  },
-  {
-    "src": "2026-05-23.png",
-    "title": "猫头鹰 · 码头边 · 星河璀璨 · 有主题",
-    "style": "年画风格",
-    "styleTag": "art",
-    "date": "2026-05-23",
-    "theme": "精致绘本插画风格(默认)",
-    "variant": "with-theme"
-  },
-  {
     "src": "2026-05-23_notheme.png",
-    "title": "猫头鹰 · 码头边 · 星河璀璨 · 无主题",
-    "style": "年画风格",
+    "title": "蜜蜂 · 异次元空间 · 星河璀璨 · 无主题",
+    "style": "维多利亚风格",
     "styleTag": "art",
     "date": "2026-05-23",
-    "theme": "无主题库约束",
-    "variant": "no-theme"
+    "theme": "复古历史档案风格",
+    "variant": "no_theme"
   },
   {
     "src": "2026-05-23.png",
-    "title": "龙猫 · 咖啡馆 · 神秘",
-    "style": "线稿上色风格",
+    "title": "蜜蜂 · 异次元空间 · 星河璀璨 · 有主题",
+    "style": "维多利亚风格",
     "styleTag": "art",
-    "date": "2026-05-23"
+    "date": "2026-05-23",
+    "theme": "复古历史档案风格",
+    "variant": "with_theme"
   },
   {
     "src": "2026-05-22-a.png",
