@@ -1,5 +1,27 @@
 [
   {
+    "src": "2026-05-23_9_notheme.png",
+    "title": "水獭 · 海面上 · 孤独 · 刺绣风格（无主题）",
+    "style": "刺绣风格",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "variant": "no_theme",
+    "combo": "水獭:海面上:孤独:刺绣风格",
+    "theme": "东坡居士水墨禅意风格",
+    "water_label": "水下"
+  },
+  {
+    "src": "2026-05-23_9.png",
+    "title": "水獭 · 海面上 · 孤独 · 刺绣风格（有主题）",
+    "style": "东坡居士水墨禅意风格",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "variant": "with_theme",
+    "combo": "水獭:海面上:孤独:刺绣风格",
+    "theme": "东坡居士水墨禅意风格",
+    "water_label": "水下"
+  },
+  {
     "src": "2026-05-23_8_notheme.png",
     "title": "蜥蜴 · 月光下 · 金光灿烂 · 电影感黑白（无主题）",
     "style": "电影感黑白",
