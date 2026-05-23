@@ -1,5 +1,27 @@
 [
   {
+    "src": "2026-05-23_8_notheme.png",
+    "title": "蜥蜴 · 月光下 · 金光灿烂 · 电影感黑白（无主题）",
+    "style": "电影感黑白",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "variant": "no_theme",
+    "combo": "蜥蜴:月光下:金光灿烂:电影感黑白",
+    "theme": "电影级宏大叙事风格",
+    "water_label": "陆地/空中"
+  },
+  {
+    "src": "2026-05-23_8.png",
+    "title": "蜥蜴 · 月光下 · 金光灿烂 · 电影感黑白（有主题）",
+    "style": "电影级宏大叙事风格",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "variant": "with_theme",
+    "combo": "蜥蜴:月光下:金光灿烂:电影感黑白",
+    "theme": "电影级宏大叙事风格",
+    "water_label": "陆地/空中"
+  },
+  {
     "src": "2026-05-23_7_notheme.png",
     "title": "鲸鱼 · 雾中 · 孤独 · 点彩派风格（无主题）",
     "style": "点彩派风格",
