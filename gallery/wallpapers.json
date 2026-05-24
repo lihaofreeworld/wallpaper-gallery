@@ -29,6 +29,283 @@
     "water_label": "水下"
   },
   {
+    "src": "04-ghibli.png",
+    "title": "龙猫 · 咖啡馆 · 神秘 · 线稿上色",
+    "style": "吉卜力线稿上色",
+    "styleTag": "art",
+    "date": "2026-05-23"
+  },
+  {
+    "src": "2026-05-23_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_9_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_8_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_7_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_6_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_5_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_4_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_3_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_30_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_2_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_29_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_28_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_27_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_26_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_25_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_24_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_23_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_22_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_21_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_20_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_19_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_18_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_17_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_16_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_15_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_14_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_13_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_12_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_11_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-23_10_notheme.png",
+    "title": "2026-05-23 · 无主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "无主题库约束",
+    "variant": "no_theme"
+  },
+  {
     "src": "2026-05-23_31.png",
     "title": "老虎 · 潜水艇内 · 星河璀璨 · 电影感黑白（有主题）",
     "style": "电影级宏大叙事风格",
@@ -40,11 +317,273 @@
     "water_label": "水下"
   },
   {
-    "src": "2026-05-22.png",
-    "title": "猫头鹰 · 码头边 · 星河璀璨 · 年画风格（有主题）",
-    "style": "精致绘本插画风格",
+    "src": "2026-05-23_9.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
     "styleTag": "art",
-    "date": "2026-05-22",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_8.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_7.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_6.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_5.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_4.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_30.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_3.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_29.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_28.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_27.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_26.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_25.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_24.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_23.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_22.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_21.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_20.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_2.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_19.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_18.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_17.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_16.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_15.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_14.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_13.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_12.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_11.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23_10.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-23.png",
+    "title": "2026-05-23 · 有主题",
+    "style": "",
+    "styleTag": "art",
+    "date": "2026-05-23",
+    "theme": "",
     "variant": "with_theme"
   },
   {
@@ -55,6 +594,14 @@
     "date": "2026-05-22"
   },
   {
+    "src": "2026-05-22.png",
+    "title": "猫头鹰 · 码头边 · 星河璀璨 · 年画风格（有主题）",
+    "style": "精致绘本插画风格",
+    "styleTag": "art",
+    "date": "2026-05-22",
+    "variant": "with_theme"
+  },
+  {
     "src": "2026-05-21-ladybug.png",
     "title": "瓢虫 · v2.1场景感知测试",
     "style": "精致绘本插画风格",
@@ -62,67 +609,11 @@
     "date": "2026-05-21"
   },
   {
-    "src": "14-wolf-papercut.png",
-    "title": "狼 · 剪纸艺术风格",
-    "style": "剪纸艺术",
+    "src": "03-art-style.png",
+    "title": "大象 · 月光下 · 云淡风轻 · 维多利亚",
+    "style": "维多利亚风格",
     "styleTag": "art",
-    "date": "2026-05-10"
-  },
-  {
-    "src": "13-lizard-pixar.png",
-    "title": "蜥蜴 · 皮克斯3D风格",
-    "style": "皮克斯3D动画",
-    "styleTag": "digital",
-    "date": "2026-05-11"
-  },
-  {
-    "src": "12-jellyfish-rococo.png",
-    "title": "水母 · 洛可可风格",
-    "style": "洛可可风格",
-    "styleTag": "art",
-    "date": "2026-05-12"
-  },
-  {
-    "src": "11-peacock-bridge.png",
-    "title": "孔雀 · 桥上场景",
-    "style": "东方美学",
-    "styleTag": "art",
-    "date": "2026-05-13"
-  },
-  {
-    "src": "10-panda-korean.png",
-    "title": "熊猫 · 韩国插画风格",
-    "style": "韩式插画",
-    "styleTag": "art",
-    "date": "2026-05-14"
-  },
-  {
-    "src": "09-penguin-cinema.png",
-    "title": "企鹅 · 电影级风格",
-    "style": "电影级叙事",
-    "styleTag": "art",
-    "date": "2026-05-15"
-  },
-  {
-    "src": "08-snake-timelapse.png",
-    "title": "蛇 · 延时摄影风格",
-    "style": "延时摄影",
-    "styleTag": "photo",
-    "date": "2026-05-16"
-  },
-  {
-    "src": "07-pig-watercolor.png",
-    "title": "猪 · 水彩风格",
-    "style": "水彩画风",
-    "styleTag": "art",
-    "date": "2026-05-17"
-  },
-  {
-    "src": "06-peacock-macro.png",
-    "title": "孔雀 · 微距特写",
-    "style": "微距摄影风格",
-    "styleTag": "photo",
-    "date": "2026-05-18"
+    "date": "2026-05-20"
   },
   {
     "src": "05-dog-gongbi.png",
@@ -132,17 +623,66 @@
     "date": "2026-05-19"
   },
   {
-    "src": "04-ghibli.png",
-    "title": "龙猫 · 咖啡馆 · 神秘 · 线稿上色",
-    "style": "吉卜力线稿上色",
-    "styleTag": "art",
-    "date": "2026-05-23"
+    "src": "06-peacock-macro.png",
+    "title": "孔雀 · 微距特写",
+    "style": "微距摄影风格",
+    "styleTag": "photo",
+    "date": "2026-05-18"
   },
   {
-    "src": "03-art-style.png",
-    "title": "大象 · 月光下 · 云淡风轻 · 维多利亚",
-    "style": "维多利亚风格",
+    "src": "07-pig-watercolor.png",
+    "title": "猪 · 水彩风格",
+    "style": "水彩画风",
     "styleTag": "art",
-    "date": "2026-05-20"
+    "date": "2026-05-17"
+  },
+  {
+    "src": "08-snake-timelapse.png",
+    "title": "蛇 · 延时摄影风格",
+    "style": "延时摄影",
+    "styleTag": "photo",
+    "date": "2026-05-16"
+  },
+  {
+    "src": "09-penguin-cinema.png",
+    "title": "企鹅 · 电影级风格",
+    "style": "电影级叙事",
+    "styleTag": "art",
+    "date": "2026-05-15"
+  },
+  {
+    "src": "10-panda-korean.png",
+    "title": "熊猫 · 韩国插画风格",
+    "style": "韩式插画",
+    "styleTag": "art",
+    "date": "2026-05-14"
+  },
+  {
+    "src": "11-peacock-bridge.png",
+    "title": "孔雀 · 桥上场景",
+    "style": "东方美学",
+    "styleTag": "art",
+    "date": "2026-05-13"
+  },
+  {
+    "src": "12-jellyfish-rococo.png",
+    "title": "水母 · 洛可可风格",
+    "style": "洛可可风格",
+    "styleTag": "art",
+    "date": "2026-05-12"
+  },
+  {
+    "src": "13-lizard-pixar.png",
+    "title": "蜥蜴 · 皮克斯3D风格",
+    "style": "皮克斯3D动画",
+    "styleTag": "digital",
+    "date": "2026-05-11"
+  },
+  {
+    "src": "14-wolf-papercut.png",
+    "title": "狼 · 剪纸艺术风格",
+    "style": "剪纸艺术",
+    "styleTag": "art",
+    "date": "2026-05-10"
   }
 ]
