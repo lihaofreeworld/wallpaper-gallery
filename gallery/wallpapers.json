@@ -684,5 +684,50 @@
     "style": "剪纸艺术",
     "styleTag": "art",
     "date": "2026-05-10"
+  },
+  {
+    "src": "01-current.png",
+    "title": "01-current.png · 补录记录",
+    "style": "未知",
+    "styleTag": "art",
+    "date": "unknown",
+    "theme": "未知",
+    "variant": "unknown"
+  },
+  {
+    "src": "02-takeo-cat.png",
+    "title": "02-takeo-cat.png · 补录记录",
+    "style": "未知",
+    "styleTag": "art",
+    "date": "unknown",
+    "theme": "未知",
+    "variant": "unknown"
+  },
+  {
+    "src": "2026-05-22-a.png",
+    "title": "2026-05-22-a.png · 补录记录",
+    "style": "未知",
+    "styleTag": "art",
+    "date": "unknown",
+    "theme": "未知",
+    "variant": "unknown"
+  },
+  {
+    "src": "2026-05-22-b.png",
+    "title": "2026-05-22-b.png · 补录记录",
+    "style": "未知",
+    "styleTag": "art",
+    "date": "unknown",
+    "theme": "未知",
+    "variant": "unknown"
+  },
+  {
+    "src": "2026-05-22-c.png",
+    "title": "2026-05-22-c.png · 补录记录",
+    "style": "未知",
+    "styleTag": "art",
+    "date": "unknown",
+    "theme": "未知",
+    "variant": "unknown"
   }
 ]
