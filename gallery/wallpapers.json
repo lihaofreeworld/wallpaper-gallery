@@ -853,5 +853,29 @@
     "theme": "未知",
     "variant": "unknown",
     "version": "v0"
+  },
+  {
+    "src": "2026-20260524_god.png",
+    "title": "瓢虫:洞穴里:梦幻:电影感写实 . god",
+    "variant": "god",
+    "prompt": "god prompt test",
+    "date": "2026-05-24",
+    "version": "v3"
+  },
+  {
+    "src": "2026-20260524.png",
+    "title": "瓢虫:洞穴里:梦幻:电影感写实 . with_theme",
+    "variant": "with_theme",
+    "prompt": "with theme prompt test",
+    "date": "2026-05-24",
+    "version": "v3"
+  },
+  {
+    "src": "2026-20260524_notheme.png",
+    "title": "瓢虫:洞穴里:梦幻:电影感写实 . no_theme",
+    "variant": "no_theme",
+    "prompt": "no theme prompt test",
+    "date": "2026-05-24",
+    "version": "v3"
   }
 ]
