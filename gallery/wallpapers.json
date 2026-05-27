@@ -1,5 +1,35 @@
 [
   {
+    "src": "2026-05-27_notheme.png",
+    "title": "小熊猫 · 森林深处 · 落日余晖 · 无主题",
+    "style": "古风仙侠风格",
+    "styleTag": "art",
+    "date": "2026-05-27",
+    "theme": "无主题库约束",
+    "version": "v3",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-27.png",
+    "title": "小熊猫 · 森林深处 · 落日余晖 · 有主题",
+    "style": "古风仙侠风格",
+    "styleTag": "art",
+    "date": "2026-05-27",
+    "theme": "东坡居士水墨禅意风格",
+    "version": "v3",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-27_god.png",
+    "title": "小熊猫 · 森林深处 · 落日余晖 · 上帝模式",
+    "style": "古风仙侠风格",
+    "styleTag": "art",
+    "date": "2026-05-27",
+    "theme": "上帝模式（完整生死戏剧）",
+    "version": "v3",
+    "variant": "god"
+  },
+  {
     "src": "2026-05-26_god.png",
     "title": "蜜蜂 · 潜水艇内 · 落日余晖 · 上帝模式",
     "style": "剪影艺术风格",
