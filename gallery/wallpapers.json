@@ -1,5 +1,35 @@
 [
   {
+    "src": "2026-05-28_notheme.png",
+    "title": "变色龙 · 雾中 · 欢快 · 无主题",
+    "style": "超现实主义风格",
+    "styleTag": "art",
+    "date": "2026-05-28",
+    "theme": "无主题库约束",
+    "version": "v3",
+    "variant": "no_theme"
+  },
+  {
+    "src": "2026-05-28.png",
+    "title": "变色龙 · 雾中 · 欢快 · 有主题",
+    "style": "超现实主义风格",
+    "styleTag": "art",
+    "date": "2026-05-28",
+    "theme": "精致绘本插画风格(默认)",
+    "version": "v3",
+    "variant": "with_theme"
+  },
+  {
+    "src": "2026-05-28_god.png",
+    "title": "变色龙 · 雾中 · 欢快 · 上帝模式",
+    "style": "超现实主义风格",
+    "styleTag": "art",
+    "date": "2026-05-28",
+    "theme": "上帝模式（完整生死戏剧）",
+    "version": "v3",
+    "variant": "god"
+  },
+  {
     "src": "v1/2026-05-28_1.png",
     "title": "狼 · 火车车厢 · 冰冷 · 古风仙侠风格",
     "style": "古风仙侠风格",
